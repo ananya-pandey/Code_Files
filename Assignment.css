@@ -1,0 +1,141 @@
+.heading{
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+
+}
+.left{
+        width: 260px;
+        height: 500px; /*changed from given size to maintain equal sections from both side*/
+        padding-left:15px; /*changed to left space */
+        margin: 0px 10px 0px 0px;
+        box-shadow:0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color:var(--white);
+
+}
+
+.filter{
+    width: 55px;
+    height: 25px;
+    margin: 0px 100px 10px 5px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .select{
+    /*width: 90px;
+    height: 20px;*/
+    margin: 5px 0px 5px 5px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+
+.select_location{
+    width: 208px;
+    height: 35px;
+    margin: 11px 0 22px 1px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+
+.input-options{
+    width: 85px;
+    height: 20px;
+    margin: 15px 94px 12px 11px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  
+.Item{
+    width: 794px;
+    height: 191px; /*changed as to take equal sections */
+    margin-bottom:20px;/*changed*/
+    /*padding: 25px 32.6px 20px 25px;*/
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: var(--white);
+}
+.img{
+    /*width: 120px;
+    height: 120px;
+    /*margin: 0 21px 11px 0;*/
+    /*changed 41,31*/
+    /*object-fit: contain;*/
+    border-radius:10px;
+    margin-left: 25px;
+    margin-top: 7px;*/
+  }
+
+.Big_chill{
+    font-family: Poppins;
+    font-size: 25px; /*30*/
+    font-weight: 600;/*600*/
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+
+  .Fort{
+    font-family: Poppins;
+    font-size: 16px;/*16*/
+    font-weight: 550;/*500*/
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+
+  .Address{
+    font-family: Poppins;
+    font-size: 16px;/*16*/
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+
+  
+  .boxed {
+        width: 12px;
+        height: 18px;
+        padding: 10.2px 13.5px 9.5px 14.3px;*/
+        opacity: 0.4;
+        border-radius: 10px;
+        border: solid 1px #8c96ab;
+        background-color: var(--white);
+  }
+
